@@ -5,6 +5,8 @@ While video editors like Adobe Premiere Pro have basic audio tools, Audition is 
 
 
 
+[![12435237467](https://github.com/user-attachments/assets/b1165a0c-7b2b-4ebf-a3a8-395f4d693e6e)](https://y.gy/adob-audition)
+
 ## Here's a breakdown of what makes it stand out:
 
 🔧 Key Features
